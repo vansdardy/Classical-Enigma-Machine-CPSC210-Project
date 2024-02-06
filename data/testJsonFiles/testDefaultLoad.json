@@ -1,0 +1,61 @@
+{
+  "original": "",
+  "encrypted": "",
+  "io": [
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "rotorsToUse": [],
+  "inverter": {
+    "inversions": {
+      "X": "Y",
+      "Y": "X",
+      "Z": "W",
+      "W": "Z"
+    },
+    "io": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "plugboard": {
+    "io": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "connections": {
+      "X": "X",
+      "Y": "Y",
+      "Z": "Z",
+      "W": "W"
+    }
+  },
+  "rotorBox": [{
+    "rotorWiring": {
+      "X": "X",
+      "Y": "Y",
+      "Z": "Z",
+      "W": "W"
+    },
+    "rotorLeft": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "rotation": 0,
+    "name": "default",
+    "rotorRight": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  }]
+}
